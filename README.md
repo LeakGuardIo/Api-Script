@@ -1,6 +1,6 @@
 ## Configuration
 
-1. **Clone this repository:**
+ 1. **Clone this repository:**
 
    ```sh
    git clone https://github.com/LeakGuardIo/Api-Script.git
